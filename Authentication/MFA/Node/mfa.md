@@ -13,5 +13,10 @@ factors (e.g. password, otp, biometrics etc) we call it as Multi-Factor Authenti
 ### Learn more about MFA
 
 🔗 [What is Multi-factor Authentication By HID](https://www.youtube.com/watch?v=tFv101qURKE)
-
 🔗 [What is Multi-factor Authentication By IBM](https://www.youtube.com/watch?v=L3alw3iXaio)
+🔗 [Implementing two-factor authentication with Nodejs](https://blog.logrocket.com/implementing-two-factor-authentication-using-speakeasy/)
+
+## Modules
+
+🔗 [SpeakEasy](https://www.npmjs.com/package/speakeasy)
+🔗 [SpeakEasy](https://www.npmjs.com/package/speakeasy)
